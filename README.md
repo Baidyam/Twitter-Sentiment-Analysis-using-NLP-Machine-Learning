@@ -111,8 +111,8 @@ Compared model performance to identify the most effective classifier.
 Email: baidya.m@northeastern.edu
 *Master's in Data Science | NLP & Machine Learning Enthusiast*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourusername)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/moumita-baidya-5746661a5/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Baidyam)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
